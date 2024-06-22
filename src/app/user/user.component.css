@@ -1,0 +1,12 @@
+section{
+    max-width: 500px;
+    margin: 0 auto;
+    padding-top: 32px;
+    font-size: 32px;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}
